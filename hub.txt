@@ -1,0 +1,5 @@
+hub Abin_BigWig_Hub
+shortLabel BigWig Hub
+longLabel ChIP-seq BigWig tracks (Control vs Glycerol)
+genomesFile genomes.txt
+email abinmathewpadippura@gmail.com
